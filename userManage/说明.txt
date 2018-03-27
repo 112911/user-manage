@@ -1,0 +1,2 @@
+前端：安装vue脚手架，安装route，安装axios
+后台：使用springboot
